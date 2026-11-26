@@ -16,10 +16,23 @@ The app is written in Indonesian. UI labels are quoted as they appear, with Engl
 
 > **How the screenshots were made.** They are renders of the web app bundled inside the APK, captured in headless Chromium at a 412 × 915 phone viewport (2× pixel density). They are **not** captures from a physical device or Android emulator (the same applies to the animated GIF), so the native status bar, WebView font rendering and Google Fonts are absent. See [`screenshots/README.md`](screenshots/README.md) for the full list and how to regenerate them.
 
+## Download
+
+<p align="center">
+  <a href="https://github.com/Indrasetyapermana/Sinta-Katalog/releases/download/Sinta_Katalog_1.0/app-debug.apk"><img src="https://img.shields.io/badge/Download-APK%20v1.0-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK v1.0"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Indrasetyapermana/Sinta-Katalog/releases/download/Sinta_Katalog_1.0/app-debug.apk">⬇️ app-debug.apk</a> (5.2 MB, Android 7.0+) · <a href="https://github.com/Indrasetyapermana/Sinta-Katalog/releases">All releases</a> · <a href="docs/02-installation.md">How to install</a>
+</p>
+
+> This is a **debug build** for testing, not a Play Store release. See [Installation](docs/02-installation.md).
+
 ## At a glance
 
 | | |
 |---|---|
+| Download | [app-debug.apk](https://github.com/Indrasetyapermana/Sinta-Katalog/releases/download/Sinta_Katalog_1.0/app-debug.apk) |
 | App name | Sinta Katalog (header: "Katalog Sinta") |
 | Package | `com.sinta.katalog` |
 | Version | 1.0 (versionCode 1), **debug build** |
