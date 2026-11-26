@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Never commit the APK itself: publish it as a GitHub Release asset instead (see docs/08)
+*.apk

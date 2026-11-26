@@ -1,0 +1,21 @@
+Information Literacy and the Use of Digital Library Services in Higher Education
+
+Abstract
+This research examines how undergraduate students use digital library services and how their information literacy skills shape that use. A survey was administered to 240 students at three universities. The findings show that guided instruction is associated with broader use of licensed databases.
+
+Keywords: information literacy, digital library services, academic library, higher education
+
+Introduction
+The background of this study is the rapid expansion of digital resources in academic libraries (Smith, 2015) (Johnson, 2016) (Williams, 2017). Universities invest heavily in licensed databases, yet usage remains uneven (Brown, 2018) (Jones, 2019). Prior research links information literacy to academic performance (Garcia, 2020) (Miller, 2021) (Davis, 2022), to critical evaluation of sources (Rodriguez, 2023) (Martinez, 2024), and to confidence in independent study (Hernandez, 2015) (Lopez, 2016). However, few studies compare instruction formats across institutions (Gonzalez, 2017) (Wilson, 2018).
+
+Method
+We used a cross-sectional survey design following established guidance (Anderson, 2019) (Thomas, 2020). The instrument combined validated scales (Taylor, 2021) (Moore, 2022) with items on database usage (Jackson, 2023). Responses were analysed with descriptive statistics and multiple regression (Martin, 2024) (Lee, 2015).
+
+Results
+Students who attended at least one instruction session reported more frequent use of licensed databases. Self-rated search confidence was the strongest single predictor of usage. Differences between institutions were small but consistent (Perez, 2016).
+
+Discussion
+These results are consistent with earlier work showing that instruction and confidence reinforce each other (Thompson, 2017) (White, 2018). Libraries may therefore benefit from embedding short, repeated sessions in existing courses rather than offering stand-alone workshops.
+
+Conclusion
+Information literacy instruction is associated with greater use of digital library services. Future research should test this relationship longitudinally.
