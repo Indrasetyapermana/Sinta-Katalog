@@ -1,4 +1,4 @@
-# Sinta Katalog — Documentation
+# Sinta Katalog
 
 Documentation for **Sinta Katalog** (`com.sinta.katalog`), an Android app for finding Indonesian academic journals accredited by [SINTA](https://sinta.kemdiktisaintek.go.id) and getting a rough estimate of which SINTA tier a draft article might suit.
 
@@ -58,18 +58,6 @@ The app is written in Indonesian. UI labels are quoted as they appear, with Engl
     ├── inspect_manifest.py      read version / SDK / permissions from the binary manifest
     └── data_stats.py            reproduce the statistics quoted in docs/05-data.md
 ```
-
-## Reproducing this documentation
-
-```bash
-pip install playwright pillow && playwright install chromium
-python scripts/inspect_manifest.py path/to/app-debug.apk
-python scripts/data_stats.py       path/to/app-debug.apk
-python scripts/capture_screenshots.py path/to/app-debug.apk
-python scripts/make_demo_gif.py path/to/app-debug.apk      # needs ffmpeg on PATH
-```
-
-Everything in these docs was derived from the APK file itself (its manifest, bundled `index.html`, `app.js`, `style.css` and `data/*.json`). Nothing was inferred from the app's source repository, which was not available.
 
 ## Highlights from the review
 
